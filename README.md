@@ -1,7 +1,4 @@
 <div align="center">
-    <a href="https://koala4696.com">
-        <img src="https://cdn.koala.org" alt="KoalaServer">
-        </a>
 </div>
 
 
