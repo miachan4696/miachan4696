@@ -26,7 +26,7 @@
 <p>
   <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" />
   <img alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-4285F4?style=flat-square&logo=Vivaldi&logoColor=white" />
-  <img alt="Firefox" src="https://img.shields.io/badge/Firefox-Developer-Edition-FF7139?logo=Firefox&logoColor=white" />
+  <img alt="Firefox-Developer-Edition" src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" />
 </p>
 
 <img alt="Discord" src="https://discord.c99.nl/widget/theme-1/1286548214883029074.png" />
