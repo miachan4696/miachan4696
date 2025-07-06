@@ -5,7 +5,7 @@
 </div>
 
 
-<h1><img src="https://cdn.discordapp.com/emojis/861062999330521108.gif" width="30"/> Hello, my name is Koala.</h1>
+<h1><img src="https://cdn.discordapp.com/emojis/861062999330521108.gif" width="30"/> Hello, my name is miachan.</h1>
 <h3>What I use when programming</h3>
 <h4>Languages</h4>
 <p>
