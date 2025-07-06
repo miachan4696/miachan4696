@@ -16,6 +16,7 @@
 <h4>Editors</h4>
     <p>
     <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-0078d7.svg?style=flat-square&logo=jetbrains%logoColor=white" />
     </p>
 <h4>OS</h4>
     <p>
