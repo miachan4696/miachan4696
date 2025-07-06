@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://koala4696.com">
-        <img src="https://cdn.koala.org" alt="KoalaServer">
+    <a href="https://mia4696.org">
+        <img src="https://cdn.mia4696.org" alt="mianetworks">
         </a>
 </div>
 
