@@ -11,7 +11,8 @@
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+    <img alt="Next.js" src="https://img.shields.io/badge/next.js-6DA55F?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 <h4>Editors</h4>
     <p>
