@@ -22,6 +22,4 @@
 ## Other Platforms
 
 <a href="https://x.com/miachann4696">X | @miachann4696</a>
-<img src="https://discord.c99.nl/widget/theme-1/1286548214883029074.png" hidden />
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vtxokzslh2z2hvd234k0p4rty&cover_image=true&theme=novatorem&show_offline=false  &background_color=121212&interchange=false&bar_color=cbe7ca&bar_color_cover=false" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vtxokzslh2z2hvd234k0p4rty&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=cbe7ca&bar_color_cover=false" />
