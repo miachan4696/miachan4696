@@ -1,34 +1,53 @@
 <div align="center">
-    <a href="https://mia4696.org">
-        <img src="https://cdn.mia4696.org" alt="mianetworks">
-        </a>
+<a href="https://mia4696.org">
+    Portfolio
+</a>
 </div>
 
 
-<h1><img src="https://cdn.discordapp.com/emojis/861062999330521108.gif" width="30"/> Hello, my name is miachan.</h1>
-<h3>What I use when programming</h3>
-<h4>Languages</h4>
-<p>
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-    <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-    <img alt="Next.js" src="https://img.shields.io/badge/next.js-6DA55F?style=flat-square&logo=next.js&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6DA55F?style=flat-square&logo=TypeScript&logoColor=white" />
-</p>
-<h4>Editors</h4>
-    <p>
-    <img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
-    <img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-0078d7.svg?style=flat-square&logo=jetbrains%logoColor=white" />
-    </p>
-<h4>OS</h4>
-    <p>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-    </p>
-<h4>Browsers</h4>
-<p>
-  <img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white" />
-  <img alt="Vivaldi" src="https://img.shields.io/badge/Vivaldi-4285F4?style=flat-square&logo=Vivaldi&logoColor=white" />
-  <img alt="Firefox-Developer-Edition" src="https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white" />
-</p>
+# About me
 
-<img alt="Discord" src="https://discord.c99.nl/widget/theme-1/1286548214883029074.png" />
+## ・ High School Students ｜ 高校生
+### ・ I mainly use TypeScript to create websites. | 主にTypeScriptを使用してウェブサイトを作成しています。
+
+## Languages 
+<img src="https://skillicons.dev/icons?i=
+javascript,
+typescript,
+html,
+css,
+nodejs,
+nextjs,
+python,
+" />
+
+## Tools
+<img alt="VSC" src="https://skillicons.dev/icons?i=
+vscode,
+webstorm,
+pycharm,
+cloudflare
+" />
+
+## OS
+<img alt="VSC" src="https://skillicons.dev/icons?i=
+windows,
+ubuntu
+">
+
+## Other Platforms
+
+<a href="https://x.com/miachann4696">X | @miachann4696</a>
+<img alt="Discord" src="https://discord.c99.nl/widget/theme-1/1286548214883029074.png" hidden />
+
+<img src="
+https://spotify-github-profile.kittinanx.com/api/view?
+uid=vtxokzslh2z2hvd234k0p4rty
+&cover_image=true
+&theme=novatorem
+&show_offline=false  
+&background_color=121212
+&interchange=false
+&bar_color=cbe7ca
+&bar_color_cover=false
+">
