@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://mia4696.org">
+<a href="https://profile.mia4696.org">
     Portfolio
 </a>
 </div>
@@ -22,7 +22,7 @@ python,
 " />
 
 ## Tools
-<img alt="VSC" src="https://skillicons.dev/icons?i=
+<img src="https://skillicons.dev/icons?i=
 vscode,
 webstorm,
 pycharm,
@@ -30,7 +30,7 @@ cloudflare
 " />
 
 ## OS
-<img alt="VSC" src="https://skillicons.dev/icons?i=
+<img src="https://skillicons.dev/icons?i=
 windows,
 ubuntu
 ">
@@ -38,7 +38,7 @@ ubuntu
 ## Other Platforms
 
 <a href="https://x.com/miachann4696">X | @miachann4696</a>
-<img alt="Discord" src="https://discord.c99.nl/widget/theme-1/1286548214883029074.png" hidden />
+<img src="https://discord.c99.nl/widget/theme-1/1286548214883029074.png" hidden />
 
 <img src="
 https://spotify-github-profile.kittinanx.com/api/view?
