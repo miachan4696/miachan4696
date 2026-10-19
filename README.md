@@ -1,7 +1,3 @@
----
-　                                                                                                   : !ruby/class "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hello there! I'm mia from Japan. "
----
-
 ## Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miachan4696&theme=algolia&animation=sequence&duration=0.2)
 
